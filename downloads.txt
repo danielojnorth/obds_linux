@@ -1,0 +1,11 @@
+Data downloaded from ensembl.org
+	https://www.ensembl.org/Mus_musculus/Info/Index
+FASTA
+	https://ftp.ensembl.org/pub/release-113/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz
+FASTA CHECKSUMS
+	https://ftp.ensembl.org/pub/release-113/fasta/mus_musculus/dna/CHECKSUMS
+GTF
+	https://ftp.ensembl.org/pub/release-113/gtf/mus_musculus/Mus_musculus.GRCm39.113.gtf.gz
+GTF CHECKSUMS
+	https://ftp.ensembl.org/pub/release-113/gtf/mus_musculus/CHECKSUMS
+
